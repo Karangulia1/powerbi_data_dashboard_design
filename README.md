@@ -28,4 +28,4 @@ Design a project dashboard using Power BI to help stakeholders track:
 
 ## 👤 Created by: Karan
 
-
+[Linkedin Profile]: [https://www.linkedin.com/in/karan-gulia-863a25281]
